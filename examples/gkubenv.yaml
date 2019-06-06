@@ -1,0 +1,4 @@
+project_name: <YOUR_PROJECT>
+kubernetes_cluster: <YOUR_CLUSTER>
+default_zone: <YOUR_DEFAULT_ZONE>
+default_region: <YOUR_DEFAULT_REGION>
