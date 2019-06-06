@@ -14,3 +14,4 @@ Intended to make everyones lifes easier by automatically changing the `gcloud` a
 
 1. Add the submodule to your existing Git project
 1. Copy the sample `gkubenv.yaml` from `examples` to your root folder and change the values accordingly
+1. Copy the `dot.envrc` from `examples` as `.envrc` to your root folder
