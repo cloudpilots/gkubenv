@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Source Configuration from yaml
 source gkubenv/deps/yaml.sh
